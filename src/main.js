@@ -1,3 +1,4 @@
+import 'aframe'
 import riot from 'riot'
 import './app/root'
 
